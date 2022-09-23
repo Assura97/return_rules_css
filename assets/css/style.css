@@ -1,13 +1,16 @@
 @charset 'utf-8';
-@import url(./fonts.css);
+@import './reset.css';
+@import './fonts.css';
 
 h1{
+  font-size: 3rem;
   color: teal;
-  font-family: 'Smooch Sans', sans-serif;
+  font-family: 'Kanit', sans-serif;
   font-weight: bold;
 }
 h2{
-  color: teal;
-  font-family: Smooch , sans-serif;
-  font-weight: 400;
+  font-size: 3rem;
+  color: red;
+  font-family: 'Smooch Sans', sans-serif;
+  font-weight: 800;
 }
