@@ -1,0 +1,10 @@
+@font-face{
+  font-family: 'Smooch Sans', sans-serif;
+  src: url(./../fonts/Kanit/Kanit-Bold.ttf) format("opentype");
+  font-weight: bold;
+}
+@font-face{
+  font-family: Smooch , sans-serif;
+  src: url(./../fonts/Smooch/SmoochSans-ExtraBold.ttf)format(opentype);
+  font-weight: 400;
+}
